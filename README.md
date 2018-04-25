@@ -3,6 +3,8 @@ CRUD operation in Apache Cassandra Using Java Client
 
 Using Java client perform following Operation
 
+http://www.devinline.com/2018/04/apache-cassandra-crud-operation-with-java-client.html
+
 ===================================
 
 1. Create Keyspace
